@@ -57,5 +57,13 @@
   </a>
 </p>
 
+#### Tools and Technologies
+<p align="left">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,docker,postman,vercel,netlify,figma,stackoverflow,webpack,sequelize&perline=12" />
+  </a>
+</p>
+
 
 
