@@ -20,6 +20,7 @@
 </p>
 
 # 💻 Tech Stack
+#### Languages
 <p align="left">
   
   <a href="https://skillicons.dev">
