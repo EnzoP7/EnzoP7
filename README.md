@@ -21,6 +21,7 @@
 
 # 💻 Tech Stack:
 <p align="left">
+  #### Design
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,wordpress,vscode,&perline=12" />
   </a>
