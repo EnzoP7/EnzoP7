@@ -20,13 +20,6 @@
 </p>
 
 # 💻 Tech Stack
-#### Design
-<p align="left">
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,wordpress,&perline=12" />
-  </a>
-</p>
 
 #### Languages
 <p align="left">
@@ -35,6 +28,18 @@
     <img src="https://skillicons.dev/icons?i=js,ts,java,py,cs,dart&perline=12" />
   </a>
 </p>
+
+
+
+#### Design
+<p align="left">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,wordpress,&perline=12" />
+  </a>
+</p>
+
+
 
 #### Development
 <p align="left">
