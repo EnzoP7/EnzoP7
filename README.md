@@ -61,7 +61,7 @@
 <p align="left">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,docker,postman,vercel,netlify,figma,stackoverflow,webpack,sequelize&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,docker,postman,vercel,netlify,figma,stackoverflow,webpack,sequelize&perline=13" />
   </a>
 </p>
 
