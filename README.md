@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋  I am Enzo Pontet ✨ </h1> 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
 
 
 <a href="https://www.linkedin.com/in/enzo-pontet-4590b0242/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Enzo Pontet Linkedin"/></a>
