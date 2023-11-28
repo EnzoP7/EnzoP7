@@ -45,7 +45,7 @@
 <p align="left">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nestjs,vite,vue,nextjs,nodejs,express,redux,fastapi,dotnet&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,nestjs,nodejs,express,redux,fastapi,dotnet&perline=12" />
   </a>
 </p>
 
