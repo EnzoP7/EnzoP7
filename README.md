@@ -45,7 +45,15 @@
 <p align="left">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,nodejs,nestjs,express,redux,fastapi,flutter,dotnet&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue,nodejs,nestjs,express,redux,spring,fastapi,flutter,dotnet&perline=12" />
+  </a>
+</p>
+
+#### Database
+<p align="left">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,graphql,mongodb,firebase&perline=12" />
   </a>
 </p>
 
