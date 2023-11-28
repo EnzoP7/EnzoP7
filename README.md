@@ -15,7 +15,7 @@
 💻 Full Stack developer.<br><br>
 🚀 Passionate about creating robust and efficient applications.<br><br>
 📚 Always learning and exploring new technologies.<br><br>
-🎓 Studying as a Programmer Analyst at the CTC Uruguay University<br><br>
+🎓 Studying as a Programmer Analyst at the CTC Uruguay University.<br><br>
   
 </p>
 
@@ -45,7 +45,7 @@
 <p align="left">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,vue,nextjs,nodejs,nestjs,express,fastapi,dotnet&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,vite,vue,nextjs,nodejs,nestjs,express,redux,fastapi,dotnet&perline=12" />
   </a>
 </p>
 
