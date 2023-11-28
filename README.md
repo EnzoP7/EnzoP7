@@ -28,42 +28,13 @@
   </a>
 </p>
 
-#### Design
+#### Languages
 <p align="left">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,wordpress,vscode,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,py,cs,dart&perline=12" />
   </a>
 </p>
 
 
 
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="width: 48%;">
-
-### 💻 Tech Stack
-#### Design
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,wordpress,vscode,&perline=12" />
-  </a>
-</p>
-
-  </div>
-
-  <div style="width: 48%;">
-
-### 💻 Tech Stack
-#### Design
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,wordpress,vscode,&perline=12" />
-  </a>
-</p>
-
-  </div>
-
-</div>
