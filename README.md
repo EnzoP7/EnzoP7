@@ -11,10 +11,10 @@
 <br>
 <h2>About Me 😃</h2>
 <p align="left">
-🌟 Programmer analyst.<br>
-💻 Full Stack developer.<br>
-🚀 Passionate about creating robust and efficient applications.<br>
-📚 Always learning and exploring new technologies.<br>
-🎓 Studying as a Programmer Analyst at the CTC Uruguay University<br>
+🌟 Programmer analyst.<br><br>
+💻 Full Stack developer.<br><br>
+🚀 Passionate about creating robust and efficient applications.<br><br>
+📚 Always learning and exploring new technologies.<br><br>
+🎓 Studying as a Programmer Analyst at the CTC Uruguay University<br><br>
   
 </p>
