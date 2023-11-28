@@ -9,4 +9,12 @@
 <a href = "mailto:enzopch2022@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enzo Pontet Gmail"  /></a>
   </div>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About Me 😃</h2>
+<p align="left">
+🌟 Programmer analyst.
+💻 Full Stack developer.
+🚀 Passionate about creating robust and efficient applications.
+📚 Always learning and exploring new technologies.
+🎓 Studying as a Programmer Analyst at the CTC Uruguay University
+  
+</p>
