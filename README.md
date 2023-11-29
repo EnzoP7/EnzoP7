@@ -217,6 +217,22 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
 <br><br><br>
 <br><br>
 
+<div align="center">
+<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+<div style="display: flex; align-items: center; justify-content: center;">
+
+[![](https://github-readme-stats.vercel.app/api?username=garbinmarcelo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/EnzoP7)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=EnzoP7&theme=tokyonight&hide_border=true)](https://github.com/EnzoP7)
+
+</div>
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=garbinmarcelo&style=flat-square)
+
+</div>
+
 
 ---
 
