@@ -96,7 +96,7 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
 </p>
 
 
-
+<br><br>
 
 
 #  👨🏻‍💻 Some projects
@@ -217,7 +217,8 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
 <br><br><br>
 <br><br>
 
-<div align="center">
+<br>
+<div align="left">
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
 
