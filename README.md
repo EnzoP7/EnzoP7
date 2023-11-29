@@ -21,6 +21,15 @@
 
 </div>
 <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
+
+
+# 😃 About Me
+
+|  |  |
+| --- | --- |
+| 🌟 Programmer analyst.<br><br> 💻 Full Stack developer.<br><br> 🚀 Passionate about creating robust and efficient applications.<br><br> 📚 Always learning and exploring new technologies.<br><br> 🎓 Studying as a Programmer Analyst at the CTC Uruguay University.<br><br> | <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/> |
+
 # 💻 Tech Stack
 
 #### Languages
