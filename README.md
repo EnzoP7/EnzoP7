@@ -10,7 +10,7 @@
 <a href = "mailto:enzopch2022@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enzo Pontet Gmail"  /></a>
   </div>
 <br>
-#😃 About Me 
+# 😃 About Me 
 
 
   
