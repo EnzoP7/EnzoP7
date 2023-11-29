@@ -24,7 +24,20 @@
 
 
 
-| 🌟 Programmer analyst.<br><br> 💻 Full Stack developer.<br><br> 🚀 Passionate about creating robust and efficient applications.<br><br> 📚 Always learning and exploring new technologies.<br><br> 🎓 Studying as a Programmer Analyst at the CTC Uruguay University.<br><br> | <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/> |
+<div style="display: flex; align-items: top;">
+  <div style="flex: 1;">
+    <p>
+      🌟 Programmer analyst.<br><br>
+      💻 Full Stack developer.<br><br>
+      🚀 Passionate about creating robust and efficient applications.<br><br>
+      📚 Always learning and exploring new technologies.<br><br>
+      🎓 Studying as a Programmer Analyst at the CTC Uruguay University.<br><br>
+    </p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" />
+  </div>
+</div>
 
 
 # 💻 Tech Stack
