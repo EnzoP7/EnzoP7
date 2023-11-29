@@ -218,7 +218,8 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
 <br><br>
 
 <br>
-<div align="left">
+<div align="center">
+  <br>
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
 
@@ -230,7 +231,7 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=garbinmarcelo&style=flat-square)
+![](https://komarev.com/ghpvc/?username=EnzoP7&style=flat-square)
 
 </div>
 
