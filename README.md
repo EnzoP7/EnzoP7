@@ -15,6 +15,7 @@
 <div>
   
 
+My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the career of **Analyst Programmer at the CTC Center**, located in Colonia, Rosario, Uruguay. My passion extends to both frontend and backend development, and I particularly enjoy creating APIs. I consider myself passionate about problem-solving through programming and am committed to continuous learning to stay updated on the latest technologies and practices in the field of computer science. <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 <div align="left">
 🌟 Programmer analyst.<br><br>
 💻 Full Stack developer.<br><br>
@@ -34,7 +35,6 @@
 
 
 
-My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the career of **Analyst Programmer at the CTC Center**, located in Colonia, Rosario, Uruguay. My passion extends to both frontend and backend development, and I particularly enjoy creating APIs. I consider myself passionate about problem-solving through programming and am committed to continuous learning to stay updated on the latest technologies and practices in the field of computer science. <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
 
 
