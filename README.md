@@ -220,7 +220,7 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
 <br>
 <div align="center">
   <br>
-<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+<h2 style="margin: 5px 10px;">:chart_with_upwards_trend: GitHub Statistics</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
 
 
@@ -237,8 +237,10 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
 
 
 ---
-
+<div aling="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+</div>
 
 ------
 
