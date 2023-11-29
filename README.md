@@ -15,7 +15,7 @@
 
   
 
-My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the career of **Analyst Programmer at the CTC Center**, located in Colonia, Rosario, Uruguay. My passion extends to both frontend and backend development, and I particularly enjoy creating APIs. I consider myself passionate about problem-solving through programming and am committed to continuous learning to stay updated on the latest technologies and practices in the field of computer science. <div style="margin-top: 40px;"> <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/></div>
+My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the career of **Analyst Programmer at the CTC Center**, located in Colonia, Rosario, Uruguay. My passion extends to both frontend and backend development, and I particularly enjoy creating APIs. I consider myself passionate about problem-solving through programming and am committed to continuous learning to stay updated on the latest technologies and practices in the field of computer science. <div style="margin-top: 80px;"> <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/></div>
 <div align="left">
 🌟 Programmer analyst.<br><br>
 💻 Full Stack developer.<br><br>
