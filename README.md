@@ -96,7 +96,7 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
 
 
 <div id="proyectos">
-<h2 >👨🏻‍💻 Some projects</h2>
+# 👨🏻‍💻 Some projects
 
 <table align="left" >
 <tr border="none">
