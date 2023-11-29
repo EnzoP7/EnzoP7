@@ -124,6 +124,64 @@
 </table>
   </div>
 <br>
+<div id="proyectos2">
+
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/EnzoP7/REST-Server-en-NODE" title="Go to Code">
+        <img align="center" width=100% src="https://portfolio-enzo-pontet.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frestservernode.545fbd38.png&w=640&q=75"   alt="IMG" /></a>
+      </p>
+  <p aling="center">
+
+  <a href="https://github.com/EnzoP7/REST-Server-en-NODE" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Enzo Pontet" /></a>
+    
+  </p>       
+</td>
+ <td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/EnzoP7/URURENT" title="Go to Code">
+        <img align="center" width=100% src="https://portfolio-enzo-pontet.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FURURENT.20e486b4.png&w=640&q=75"   alt="IMG" /></a>
+      </p>
+  <p aling="center">
+
+  <a href="https://github.com/EnzoP7/URURENT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Enzo Pontet" /></a>
+    
+  </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/EnzoP7/ApiPythoonMongo" title="Go to Code">
+        <img align="center" width=100% src="https://portfolio-enzo-pontet.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FAPIMONGOPYTHON.6d325d4c.png&w=640&q=75"   alt="IMG" /></a>
+      </p>
+  <p aling="center">
+
+  <a href="https://github.com/EnzoP7/ApiPythoonMongo" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Enzo Pontet" /></a>
+    
+  </p>       
+</td>
+
+ <td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/EnzoP7/ObligatorioDDA" title="Go to Code">
+        <img align="center" width=100% src="https://portfolio-enzo-pontet.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FJAVAAJEDREZ.bc3e1655.png&w=1920&q=75"   alt="IMG" /></a>
+      </p>
+  <p aling="center">
+
+  <a href="https://github.com/EnzoP7/ObligatorioDDA" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Enzo Pontet" /></a>
+    
+  </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+
+
+
 <br><br>
 <br>
 <br><br><br>
