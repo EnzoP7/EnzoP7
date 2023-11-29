@@ -95,8 +95,8 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
 
 
 
-<div id="proyectos">
-# 👨🏻‍💻 Some projects
+
+#  👨🏻‍💻 Some projects
 
 <table align="left" >
 <tr border="none">
@@ -149,7 +149,7 @@ My name is **Enzo Pontet**, I am 20 years old, and I am currently pursuing the c
   
 </tr>
 </table>
-  </div>
+ 
 <br>
 <div id="proyectos2">
 
